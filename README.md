@@ -2,19 +2,18 @@
 ```
 * module    -component
 
-app 
-
+app
 *home
-	-carousel
-	-hottopic
-	-alllist
+	-hcarousel
+	-htopics
+	-hlist
 
 *user
 	-profile
-	-mytopic
+	-mytopics
 
 *topic
-	-list
-	-content
-	-related
+	-tlist
+	-tcontent
+	-trelated
 ```
