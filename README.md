@@ -4,16 +4,16 @@
 
 app
 *home
-	-hcarousel
-	-htopics
-	-hlist
+    -hcarousel
+    -htopics
+    -hlist
 
 *user
-	-profile
-	-mytopics
+    -profile
+    -mytopics
 
 *topic
-	-tlist
-	-tcontent
-	-trelated
+    -tlist
+    -tcontent
+    -trelated
 ```
