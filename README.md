@@ -1,8 +1,9 @@
 # PANORIZON 
-
+```
 * module    -component
 
-app
+app 
+
 *home
 	-carousel
 	-hottopic
@@ -16,3 +17,4 @@ app
 	-list
 	-content
 	-related
+```
